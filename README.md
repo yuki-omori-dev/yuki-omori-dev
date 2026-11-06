@@ -1,4 +1,7 @@
-## Hi I'm Yuki Omori👋
+## Hi, I'm Yuki Omori👋
+
+Javaを用いたアプリケーション開発を中心に勉強しています。
+今後はクラウドやセキュリティ技術を組み合わせ、より実践的で安全なシステム開発を目指しています。
 
 <!--
 **yuki-omori-dev/yuki-omori-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
