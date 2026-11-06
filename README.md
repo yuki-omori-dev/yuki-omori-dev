@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi I'm Yuki Omori👋
 
 <!--
 **yuki-omori-dev/yuki-omori-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
